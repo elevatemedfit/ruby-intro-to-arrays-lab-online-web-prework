@@ -3,7 +3,7 @@ describe "working with arrays" do
 
   context 'instantiating' do
     describe "#instantiate_new_array" do
-      return my_new_arry[]
+      return my_new_array[]
       #the variables that begin with the '@' symbol are called instance variables.
       #We'll learn more about them when we get to object orientation.
       #For now, just know that creating an instance variable inside our describe block
