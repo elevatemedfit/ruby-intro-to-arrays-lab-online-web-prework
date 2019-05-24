@@ -2,7 +2,6 @@ def instantiate_new_array
    []
 end
 
-
 def array_with_two_elements
   return ["Chris","Kate"]
 end
@@ -21,4 +20,8 @@ end
 
 def first_element_with_array_methods(array)
   return array.first
+end
+
+def last_element_with_array_methods(array)
+  return array.last
 end
